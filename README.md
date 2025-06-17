@@ -1,4 +1,4 @@
-# <p align="center">TAF TSI technical documents</p>
+# <p align="center">Telematics TSI technical documents</p>
   
 This repository stores the <b>DRAFT</b> technical documents of the Regulation (EU) XXXX/2025.
 
